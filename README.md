@@ -1,4 +1,16 @@
 # Network-Security-
+
+A network design for CHIP TECH with a total number of 433 employees with larger IP
+address block 192.168.1.0/ 25 will be assigned as its major IP address.
+
+
+The Main office Petaling Jaya will be connected to other 5 branches Johor Bahru, Kuantan,
+Kulim, Georgetown and Ipoh through a point to point leased line made of fiber optics. The
+main office. The Main Office will have a server room with DHCP, Radius, Syslog, SSH,
+Mail and web Server connecting with an encrypted router.
+
+
+
 Topology Design
 
 Network Protocol Used in this Network Design
